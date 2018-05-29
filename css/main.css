@@ -249,15 +249,20 @@ nav ul.nav-right {
 }
 .project-card h3 {
   margin: 0;
-  font-size: 2em;
+  font-size: 1.7em;
   text-align: center;
+  background-color: #222;
+  color: #fff;
+  font-weight: normal;
+  border-bottom: none;
+  padding: 5px 0;
 }
 .project-card img {
   max-width: 100%;
   border-bottom: 1px solid #333;
 }
 .project-card .built-with {
-  margin: 0;
+  margin: 5px 0;
   font-size: 0.8em;
   padding: 0 0 0 15px;
   color: #696464;
