@@ -10,6 +10,7 @@ https://abandisch.github.io/portfolio/
 
 This is a basic portfolio website, built with HTML5, CSS and jQuery.
 
-## Images 
+### Icons 
 
-Background image 
+Dev Icons - http://konpa.github.io/devicon/
+Font Awesome - https://fontawesome.com/
