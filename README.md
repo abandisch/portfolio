@@ -5,3 +5,11 @@ This repository just contains a few projects I've worked on the past, where I've
 ## Portfolio URL
 
 https://abandisch.github.io/portfolio/
+
+## Stack
+
+This is a basic portfolio website, built with HTML5, CSS and jQuery.
+
+## Images 
+
+Background image 

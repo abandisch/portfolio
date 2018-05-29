@@ -257,7 +257,7 @@ nav ul.nav-right {
   border-bottom: none;
   padding: 5px 0;
 }
-.project-card img {
+.project-card .img-app {
   max-width: 100%;
   border-bottom: 1px solid #333;
 }
