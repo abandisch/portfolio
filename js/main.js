@@ -1,5 +1,5 @@
 const navigate = () => {
-  $('nav').on('click', 'a', function(event) {
+  $('nav').on('click', '.scroll-to', function(event) {
     event.preventDefault();
     const whereTo = $(this).attr('href');
     $('html, body').animate({
